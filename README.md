@@ -1,4 +1,4 @@
-Self check-in for farm testnet or mainnets
+Self check-in to farm Testnet or Mainnets
 
 You have to deploy this contract on [Remix Ethereum](https://remix.ethereum.org/) for deploying it, you need to create a .sol file with any name and copy/paste the code in there
 
