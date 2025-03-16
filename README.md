@@ -6,7 +6,7 @@ The logic of the contract its simple, make a transaction without any value, you 
 
 The source code are in the .sol archive of this repository. There is the source code in case you can't see it:
 -------------------------------------------------------------------------------------------------------------
-
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -17,3 +17,4 @@ contract CheckIn {
         emit CheckedIn(msg.sender, block.timestamp);
     }
 }
+```
